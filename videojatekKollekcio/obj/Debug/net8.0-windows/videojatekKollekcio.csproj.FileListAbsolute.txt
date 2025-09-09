@@ -1,0 +1,16 @@
+S:\C#\videojatekKollekcio\videojatekKollekcio\bin\Debug\net8.0-windows\videojatekKollekcio.exe
+S:\C#\videojatekKollekcio\videojatekKollekcio\bin\Debug\net8.0-windows\videojatekKollekcio.deps.json
+S:\C#\videojatekKollekcio\videojatekKollekcio\bin\Debug\net8.0-windows\videojatekKollekcio.runtimeconfig.json
+S:\C#\videojatekKollekcio\videojatekKollekcio\bin\Debug\net8.0-windows\videojatekKollekcio.dll
+S:\C#\videojatekKollekcio\videojatekKollekcio\bin\Debug\net8.0-windows\videojatekKollekcio.pdb
+S:\C#\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.Form1.resources
+S:\C#\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.csproj.GenerateResource.cache
+S:\C#\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.GeneratedMSBuildEditorConfig.editorconfig
+S:\C#\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.AssemblyInfoInputs.cache
+S:\C#\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.AssemblyInfo.cs
+S:\C#\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.csproj.CoreCompileInputs.cache
+S:\C#\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.dll
+S:\C#\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\refint\videojatekKollekcio.dll
+S:\C#\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.pdb
+S:\C#\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\videojatekKollekcio.genruntimeconfig.cache
+S:\C#\videojatekKollekcio\videojatekKollekcio\obj\Debug\net8.0-windows\ref\videojatekKollekcio.dll

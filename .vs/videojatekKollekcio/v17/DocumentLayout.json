@@ -1,0 +1,74 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "S:\\C#\\videojatekKollekcio\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFAA42C-1810-4730-A9AF-F065B1FEF985}|videojatekKollekcio\\videojatekKollekcio.csproj|S:\\C#\\videojatekKollekcio\\videojatekkollekcio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form",
+      "RelativeMoniker": "D:0:0:{BFFAA42C-1810-4730-A9AF-F065B1FEF985}|videojatekKollekcio\\videojatekKollekcio.csproj|solutionrelative:videojatekkollekcio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}|Form"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFAA42C-1810-4730-A9AF-F065B1FEF985}|videojatekKollekcio\\videojatekKollekcio.csproj|s:\\c#\\videojatekkollekcio\\videojatekkollekcio\\jatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFAA42C-1810-4730-A9AF-F065B1FEF985}|videojatekKollekcio\\videojatekKollekcio.csproj|solutionrelative:videojatekkollekcio\\jatek.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BFFAA42C-1810-4730-A9AF-F065B1FEF985}|videojatekKollekcio\\videojatekKollekcio.csproj|s:\\c#\\videojatekkollekcio\\videojatekkollekcio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BFFAA42C-1810-4730-A9AF-F065B1FEF985}|videojatekKollekcio\\videojatekKollekcio.csproj|solutionrelative:videojatekkollekcio\\form1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{cce594b6-0c39-4442-ba28-10c64ac7e89f}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Jatek.cs",
+              "DocumentMoniker": "S:\\C#\\videojatekKollekcio\\videojatekKollekcio\\Jatek.cs",
+              "RelativeDocumentMoniker": "videojatekKollekcio\\Jatek.cs",
+              "ToolTip": "S:\\C#\\videojatekKollekcio\\videojatekKollekcio\\Jatek.cs",
+              "RelativeToolTip": "videojatekKollekcio\\Jatek.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T07:02:31.416Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Form1.cs",
+              "DocumentMoniker": "S:\\C#\\videojatekKollekcio\\videojatekKollekcio\\Form1.cs",
+              "RelativeDocumentMoniker": "videojatekKollekcio\\Form1.cs",
+              "ToolTip": "S:\\C#\\videojatekKollekcio\\videojatekKollekcio\\Form1.cs",
+              "RelativeToolTip": "videojatekKollekcio\\Form1.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAUwEAAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-03T06:13:04.047Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Form1.cs [Design]",
+              "DocumentMoniker": "S:\\C#\\videojatekKollekcio\\videojatekKollekcio\\Form1.cs",
+              "RelativeDocumentMoniker": "videojatekKollekcio\\Form1.cs",
+              "ToolTip": "S:\\C#\\videojatekKollekcio\\videojatekKollekcio\\Form1.cs [Design]",
+              "RelativeToolTip": "videojatekKollekcio\\Form1.cs [Design]",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-09-02T07:21:27.671Z",
+              "EditorCaption": " [Design]"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
